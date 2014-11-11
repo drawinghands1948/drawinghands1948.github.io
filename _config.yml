@@ -1,9 +1,9 @@
 # Site settings
-title: Katy DeCorah
-email: kdecorah@albany.edu
-description: Katy is a front-end developer from New York.
-url: katystudent.github.io
-github_username: katystudent
+title: jChong
+email: jChong87@gmail.com
+description: jChong is a student from Long Island.
+url: drawinghands1948.github.io
+github_username: drawinghands1948
 
 # Build settings
 markdown: kramdown
