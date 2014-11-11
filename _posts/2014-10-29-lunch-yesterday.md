@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I had for lunch yesterday
-image: http://kyleahealth.com/wp-content/uploads/2014/09/Yogurt.jpg
+image: http://www.chipotle.com/en-us/assets/images/menu/menu_burrito_bowl.png
 ---
 
-I had yogurt.
+I had chipotle.
